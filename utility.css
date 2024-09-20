@@ -1,0 +1,137 @@
+/* Utility for Flexbox */
+.d-flex {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.justify-content-around {
+    justify-content: space-around;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.align-items-start {
+    align-items: flex-start;
+}
+
+.align-items-end {
+    align-items: flex-end;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+/* Centering */
+.text-center {
+    text-align: center;
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Background colors */
+.bg-black {
+    background-color: black;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+.bg-transparent {
+    background-color: transparent;
+}
+
+/* Text colors */
+.text-white {
+    color: white;
+}
+
+.text-black {
+    color: black;
+}
+
+.text-red {
+    color: red;
+}
+
+/* Margins and Paddings */
+.m-0 {
+    margin: 0;
+}
+
+.mt-1 {
+    margin-top: 0.25rem;
+}
+
+.mb-1 {
+    margin-bottom: 0.25rem;
+}
+
+.p-0 {
+    padding: 0;
+}
+
+.pt-1 {
+    padding-top: 0.25rem;
+}
+
+.pb-1 {
+    padding-bottom: 0.25rem;
+}
+
+/* Full-width and height */
+.w-100 {
+    width: 100%;
+}
+
+.h-100 {
+    height: 100%;
+}
+
+/* Borders */
+.border {
+    border: 1px solid;
+}
+
+.border-red {
+    border-color: red;
+}
+
+.border-2 {
+    border-width: 2px;
+}
+
+/* Box sizing */
+.box-sizing-border {
+    box-sizing: border-box;
+}
+
+/* Display settings */
+.d-none {
+    display: none;
+}
+
+.d-block {
+    display: block;
+}
